@@ -2571,11 +2571,12 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.25em;
 			display: block;
+			object-fit: cover;
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
-			height: auto
+			max-width: 20%;
+			max-height: 100%
 		}
 
 			.image.left img, .image.right img {
