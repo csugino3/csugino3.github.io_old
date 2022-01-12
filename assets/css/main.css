@@ -2575,6 +2575,7 @@ input, select, textarea {
 
 		.image.left, .image.right {
 			max-width: 40%;
+			height: auto
 		}
 
 			.image.left img, .image.right img {
@@ -3554,10 +3555,10 @@ input, select, textarea {
 			-webkit-flex-direction: column;
 			-ms-flex-direction: column;
 			flex-direction: column;
-			-moz-justify-content: right;
-			-webkit-justify-content: right;
-			-ms-justify-content: right;
-			justify-content: right;
+			-moz-justify-content: center;
+			-webkit-justify-content: center;
+			-ms-justify-content: center;
+			justify-content: center;
 			-moz-transform: translateY(0);
 			-webkit-transform: translateY(0);
 			-ms-transform: translateY(0);
