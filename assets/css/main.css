@@ -3539,7 +3539,7 @@ input, select, textarea {
 		#sidebar > .title {
 			border: 0;
 			color: #ffffff;
-			display: inline;
+			float: left;
 			font-size: 1.25em;
 			font-weight: bold;
 			text-align: left;
@@ -3554,10 +3554,10 @@ input, select, textarea {
 			-webkit-flex-direction: column;
 			-ms-flex-direction: column;
 			flex-direction: column;
-			-moz-justify-content: center;
-			-webkit-justify-content: center;
-			-ms-justify-content: center;
-			justify-content: center;
+			-moz-justify-content: right;
+			-webkit-justify-content: right;
+			-ms-justify-content: right;
+			justify-content: right;
 			-moz-transform: translateY(0);
 			-webkit-transform: translateY(0);
 			-ms-transform: translateY(0);
