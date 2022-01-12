@@ -2576,7 +2576,8 @@ input, select, textarea {
 
 		.image.left, .image.right {
 			max-width: 20%;
-			max-height: 100%
+			max-height: 100%;
+			min-width: 150px
 		}
 
 			.image.left img, .image.right img {
@@ -3747,7 +3748,7 @@ input, select, textarea {
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
 			border: 0;
-			color: rgba(163, 38, 56, 0.4);
+			color: rgba(163, 38, 56, 0.6);
 			display: block;
 			font-size: 0.7em;
 			font-weight: bold;
