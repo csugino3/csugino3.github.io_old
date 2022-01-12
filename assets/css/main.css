@@ -3539,9 +3539,10 @@ input, select, textarea {
 		#sidebar > .title {
 			border: 0;
 			color: #ffffff;
-			display: block;
+			display: inline;
 			font-size: 1.25em;
 			font-weight: bold;
+			text-align: left;
 		}
 
 		#sidebar > .inner {
