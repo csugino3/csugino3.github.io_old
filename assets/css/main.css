@@ -1945,7 +1945,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: rgba(255, 255, 255, 0.55) !important;
+			border-color: rgba(163,38,56,0.8) !important;
 		}
 
 			input[type="submit"]:hover:after,
@@ -1965,7 +1965,7 @@ input, select, textarea {
 			input[type="button"]:hover:active,
 			button:hover:active,
 			.button:hover:active {
-				border-color: #000000 !important;
+				border-color: #A32638 !important;
 			}
 
 				input[type="submit"]:hover:active:after,
