@@ -3539,15 +3539,6 @@ input, select, textarea {
 		width: 18em;
 		z-index: 10000;
 	}
-		#sidebar > .title {
-			border: 0;
-			color: #ffffff;
-			float: left;
-			font-size: 1.25em;
-			font-weight: bold;
-			text-align: left;
-		}
-
 		#sidebar > .inner {
 			display: -moz-flex;
 			display: -webkit-flex;
