@@ -2360,7 +2360,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #312450;
+			background: #ffffff;
 		}
 
 		select:focus::-ms-value {
@@ -2540,27 +2540,27 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #ffffff;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #ffffff;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #ffffff;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #ffffff;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #ffffff;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #ffffff;
 				}
 
 /* Image */
@@ -3416,16 +3416,16 @@ input, select, textarea {
 
 					#header > nav > ul > li a {
 						border: 0;
-						color: rgba(163, 38, 56, 0.4);
+						color: rgba(163, 38, 56, 0.6);
 						display: inline-block;
-						font-size: 0.6em;
+						font-size: 0.7em;
 						font-weight: bold;
 						letter-spacing: 0.25em;
 						text-transform: uppercase;
 					}
 
 						#header > nav > ul > li a:hover {
-							color: rgba(163, 38, 57, 0.8);
+							color: rgba(163, 38, 57, 1);
 						}
 
 						#header > nav > ul > li a.active {
