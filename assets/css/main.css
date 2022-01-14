@@ -6,6 +6,34 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/*
+	Primary
+	#A32638 Stevens red
+	#9A989A Stevens gray
+*/
+
+/*
+	Secondary
+	#363D45 almost black
+	#004380 dark blue
+	#008A90 turquoise
+	#E7842E orange
+/*
+
+/*
+	Accents
+	#4896CF medium blue
+	#7A548B purple
+/*
+
+/*
+	Lights
+	#E4E5E6 light gray
+	#E7F2FB very light blue
+	#E8F2F3 very light blue gray
+	#F5F1E4 very light yellow
+*/
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -3405,7 +3433,7 @@ input, select, textarea {
 
 				#header > nav > ul > li {
 					display: inline-block;
-					margin-left: 1.75em;
+					margin-left: 2em;
 					padding: 0;
 					vertical-align: middle;
 				}
