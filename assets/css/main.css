@@ -3407,7 +3407,7 @@ input, select, textarea {
 		display: flex;
 		background-color: #9A989A;
 		cursor: default;
-		padding: 1.75em 2em;
+		padding: 1.75em 1.8em;
 	}
 
 		#header > .title {
