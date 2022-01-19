@@ -3552,7 +3552,7 @@ input, select, textarea {
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: rgba(255, 255, 255, 0.1)
+		color: #9A989A
 	}
 
 	#header + #wrapper + #footer > .inner {
