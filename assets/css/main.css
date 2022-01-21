@@ -252,7 +252,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1.1em;
+		font-size: 1.5em;
 	}
 
 	h4 {
@@ -2631,7 +2631,7 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			margin: 0 0 2em 0;
+			margin: 0 0 0 0;
 			width: 100%;
 		}
 
@@ -3246,7 +3246,7 @@ input, select, textarea {
 	}
 
 		.wrapper > .inner {
-			padding: 5em 5em 3em 5em ;
+			padding: 3em 5em 3em 5em ;
 			max-width: 100%;
 			width: 75em;
 		}
@@ -3419,8 +3419,9 @@ input, select, textarea {
 			border: 0;
 			color: #A32638;
 			display: block;
+			font-family: Raleway, sans-serif;
+			font-weight: regular;
 			font-size: 1.25em;
-			font-weight: bold;
 		}
 
 		#header > nav {
@@ -3779,7 +3780,7 @@ input, select, textarea {
 			color: #9A989A;
 			display: block;
 			font-size: 0.7em;
-			font-weight: normal;
+			font-weight: bold;
 			letter-spacing: 0.25em;
 			line-height: 1.75;
 			outline: 0;
