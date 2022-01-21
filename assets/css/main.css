@@ -3449,7 +3449,7 @@ input, select, textarea {
 						color: #9A989A;
 						display: inline-block;
 						font-size: 0.7em;
-						font-weight: regular;
+						font-weight: bold;
 						letter-spacing: 0.25em;
 						text-transform: uppercase;
 					}
@@ -3776,7 +3776,7 @@ input, select, textarea {
 			color: #9A989A;
 			display: block;
 			font-size: 0.7em;
-			font-weight: regular;
+			font-weight: bold;
 			letter-spacing: 0.25em;
 			line-height: 1.75;
 			outline: 0;
