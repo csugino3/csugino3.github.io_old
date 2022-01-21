@@ -64,10 +64,6 @@ ol, ul {
 	list-style: none;
 }
 
-li:not(:last-child) {
-    margin-bottom: 5px;
-}
-
 blockquote, q {
 	quotes: none;
 }
@@ -3452,8 +3448,8 @@ input, select, textarea {
 						border: 0;
 						color: #9A989A;
 						display: inline-block;
-						font-size: 0.6em;
-						font-weight: bold;
+						font-size: 0.7em;
+						font-weight: regular;
 						letter-spacing: 0.25em;
 						text-transform: uppercase;
 					}
@@ -3780,8 +3776,8 @@ input, select, textarea {
 			color: #9A989A;
 			display: block;
 			font-size: 0.7em;
-			font-weight: bold;
-			letter-spacing: 0.1em;
+			font-weight: regular;
+			letter-spacing: 0.25em;
 			line-height: 1.75;
 			outline: 0;
 			padding: 1.5em 0;
