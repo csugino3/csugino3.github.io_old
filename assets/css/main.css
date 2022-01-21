@@ -3412,7 +3412,7 @@ input, select, textarea {
 		display: flex;
 		background-color: #E4E5E6;
 		cursor: default;
-		padding: 1.75em 1.8em;
+		padding: 1.75em 2em;
 	}
 
 		#header > .title {
@@ -3439,8 +3439,8 @@ input, select, textarea {
 
 				#header > nav > ul > li {
 					display: inline-block;
-					margin-left: 2em;
-					padding: 0;
+					margin-left: 1.75em;
+					padding: 0em;
 					vertical-align: middle;
 				}
 
@@ -3452,7 +3452,7 @@ input, select, textarea {
 						border: 0;
 						color: #9A989A;
 						display: inline-block;
-						font-size: 0.7em;
+						font-size: 0.6em;
 						font-weight: bold;
 						letter-spacing: 0.25em;
 						text-transform: uppercase;
@@ -3781,7 +3781,7 @@ input, select, textarea {
 			display: block;
 			font-size: 0.7em;
 			font-weight: bold;
-			letter-spacing: 0.25em;
+			letter-spacing: 0.1em;
 			line-height: 1.75;
 			outline: 0;
 			padding: 1.5em 0;
