@@ -148,7 +148,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(0, 0, 0, 0.55);
-		font-family: Montserrat, Arial, Helvetica, sans-serif;
+		font-family: "Open Sans", Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
 		line-height: 1.75;
@@ -208,7 +208,8 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #A32638;
-		font-weight: bold;
+		font-family: Raleway, sans-serif;
+		font-weight: regular;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
 	}
@@ -3778,7 +3779,7 @@ input, select, textarea {
 			color: #9A989A;
 			display: block;
 			font-size: 0.7em;
-			font-weight: bold;
+			font-weight: normal;
 			letter-spacing: 0.25em;
 			line-height: 1.75;
 			outline: 0;
